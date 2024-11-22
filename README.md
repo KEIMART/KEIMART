@@ -3,6 +3,32 @@
 </div>
 <img src="./kn.png">
 
+## About me
+<p>Frontend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</p>
+
+### 🎓 **Formación académica:**
+
+  - **Ingeniería en Informática**: University of Chile, Duoc UC.
+  - **Analista Programador Computacional.**: University of Chile, Duoc UC.
+    
+  - **Diplomados**:
+  - **University AIEP**
+  - Diseño Web y Experiencia de usuario UX/UI.
+  - Diseño y Orogramación Web.
+  - Marketing Digital y Gestión Estratégica.
+    
+  - **Universidad de Playa Ancha**
+  - Diplomado en Diseño y Gestión Ágil de Proyectos.
+    
+- ✨ **Habilidades clave:**
+  - Diseño de interfaces centradas en el usuario.
+  - Desarrollo de soluciones frontend elegantes y funcionales.
+  - Estrategias digitales para mejorar la experiencia del usuario.
+    
+- 🚀 **Actualmente trabajando en proyectos que combinan creatividad y tecnología para resolver problemas reales.**
+
+<br>
+
 <!--
 **KEIMART/KEIMART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
