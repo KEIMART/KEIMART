@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Keila Martinez👋</h1>
 </div>
 <img src="./kn.png">
-<p>Frontend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</p>
+<h3>Frontend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
 
 ## About me
 ### 🎓 **Formación académica:**
