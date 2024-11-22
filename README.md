@@ -14,6 +14,7 @@
   ## Diplomas
   <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse;">
   <tr>
+    <!-- Primera columna: Información académica -->
     <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
       <p style="font-weight: bold; margin-bottom: 10px;">University AIEP</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
@@ -26,11 +27,14 @@
         <li>Design and Agile Project Management</li>
       </ul>
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle;">
+
+    <!-- Segunda columna: GIF centrado -->
+   <td style="width: 50%; text-align: center; vertical-align: middle;">
       <img src="./git.gif" width="200" alt="Octocat gif" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
+
     
 ### ✨ **Habilidades clave:**
   - User-centered interface design.
