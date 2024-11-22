@@ -10,35 +10,28 @@
   - **Computer Engineering**: University of Chile, Duoc UC.
   - **Computer Programmer Analyst**: University of Chile, Duoc UC.
     <br>
-  <table>
+ 
+  ## Diplomas
+  <table style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px;">
   <tr>
-    <td>
-      <p>Universidad AIEP</p>
-      <ul>
-        <li>Diseño Web y Experiencia de Usuario UX/UI</li>
-        <li>Diseño Web y Programación</li>
-        <li>Analista Programador Informático</li>
+    <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+      <p style="font-weight: bold; margin-bottom: 10px;">University AIEP</p>
+      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
+        <li>Web Design and User Experience UX/UI</li>
+        <li>Web Design and Programming</li>
+        <li>Computer Programmer Analyst</li>
       </ul>
-      <p>Universidad de Playa Ancha</p>
-      <ul>
-        <li>Diseño y Gestión Ágil de Proyectos</li>
+      <p style="font-weight: bold; margin-bottom: 10px;">Universidad de Playa Ancha</p>
+      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
+        <li>Design and Agile Project Management</li>
       </ul>
     </td>
-    <td>
-      <img src="./git.gif" width="200" alt="Octocat gif">
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
+      <img src="./git.gif" width="200" alt="Octocat gif" style="border-radius: 10px;">
     </td>
   </tr>
-</table>  
+</table>
 
-  ## Diplomas
-  <p>University AIEP</p>
-  - Web Design and User Experience UX/UI<br>
-  - Web Design and Programming<br>
-  - Computer Programmer Analyst
-   <br><br> 
-  <p>Universidad de Playa Ancha</p>
-  - Design and Agile Project Management.
-    <br>
     
 ### ✨ **Habilidades clave:**
   - User-centered interface design.
