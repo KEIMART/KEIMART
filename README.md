@@ -79,8 +79,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
   </a>
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
