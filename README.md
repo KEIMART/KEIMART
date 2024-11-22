@@ -12,9 +12,9 @@
     <br>
  
   ## Diplomas
-  <table style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px;">
+  <table style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border: none;">
   <tr>
-    <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+    <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333; border: none;">
       <p style="font-weight: bold; margin-bottom: 10px;">University AIEP</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>Web Design and User Experience UX/UI</li>
@@ -26,7 +26,7 @@
         <li>Design and Agile Project Management</li>
       </ul>
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle;">
+    <td style="width: 50%; text-align: center; vertical-align: middle; border: none;">
       <img src="./git.gif" width="200" alt="Octocat gif" style="border-radius: 10px;">
     </td>
   </tr>
