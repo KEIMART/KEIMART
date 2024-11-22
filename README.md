@@ -5,16 +5,16 @@
 <h3>Frontend/Backend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
 
 ## About me
-### 🎓 **Formación académica:**
+### 🎓 **Academic training:**
 
   - **Computer Engineering**: University of Chile, Duoc UC.
   - **Computer Programmer Analyst**: University of Chile, Duoc UC.
     
   ## Diplomas
   <p>University AIEP</p>
-  - Web Design and User Experience UX/UI.
-  - Web Design and Programming.
-  - Digital Marketing and Strategic Management.
+  - Web Design and User Experience UX/UI
+  - Web Design and Programming
+  - Computer Programmer Analyst
     
   <p>Universidad de Playa Ancha</p>
   - Design and Agile Project Management.
@@ -24,8 +24,8 @@
   - User-centered interface design.
   - Development of elegant and functional frontend solutions.
   - Digital strategies to improve the user experience.
-    
-- 🚀 **Currently working on projects that combine creativity and technology to solve real problems.**
+    <br>
+### 🚀 **Currently working on projects that combine creativity and technology to solve real problems.**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
