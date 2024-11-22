@@ -12,10 +12,10 @@
     
   ## Diplomas
   <p>University AIEP</p>
-  - Web Design and User Experience UX/UI
-  - Web Design and Programming
+  - Web Design and User Experience UX/UI<br>
+  - Web Design and Programming<br>
   - Computer Programmer Analyst
-    
+   <br><br> 
   <p>Universidad de Playa Ancha</p>
   - Design and Agile Project Management.
     <br>
