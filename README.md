@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Keila Martinez👋</h1>
+<h1 align="center">Hello, I'm Keila Martinez👋</h1>
 </div>
 <img src="./kmn.png">
 <h3>Frontend/Backend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
@@ -28,7 +28,7 @@
 - 🚀 **Currently working on projects that combine creativity and technology to solve real problems.**
 
 <br>
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -65,11 +65,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  </a>
-
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
@@ -97,7 +92,7 @@
 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
   </a>
 
   <!-- Kubernetes -->
@@ -115,49 +110,14 @@
     <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40" />
   </a>
 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  </a>
-
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/selenium.svg" alt="Selenium" width="40" height="40" />
   </a>
 
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-
-  <!-- Sketch -->
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sketch.svg" alt="Sketch" width="40" height="40" />
-  </a>
-
-  <!-- Svelte -->
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" width="40" height="40" />
-  </a>
-
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40" />
-  </a>
-
-  <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
   </a>
 </p>
 
