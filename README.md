@@ -2,36 +2,35 @@
 <h1 align="center">Hola, soy Keila Martinez👋</h1>
 </div>
 <img src="./kn.png">
-<h3>Frontend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
+<h3>Frontend/Backend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
 
 ## About me
 ### 🎓 **Formación académica:**
 
-  - **Ingeniería en Informática**: University of Chile, Duoc UC.
-  - **Analista Programador Computacional.**: University of Chile, Duoc UC.
+  - **Computer Engineering**: University of Chile, Duoc UC.
+  - **Computer Programmer Analyst**: University of Chile, Duoc UC.
     
-  ## Diplomados
+  ## Diplomas
   <p>University AIEP</p>
-  - Diseño Web y Experiencia de usuario UX/UI.
-  - Diseño y Orogramación Web.
-  - Marketing Digital y Gestión Estratégica.
+  - Web Design and User Experience UX/UI.
+  - Web Design and Programming.
+  - Digital Marketing and Strategic Management.
     
   <p>Universidad de Playa Ancha</p>
-  - Diplomado en Diseño y Gestión Ágil de Proyectos.
+  - Design and Agile Project Management.
     <br>
     
 ### ✨ **Habilidades clave:**
-
-  - Diseño de interfaces centradas en el usuario.
-  - Desarrollo de soluciones frontend elegantes y funcionales.
-  - Estrategias digitales para mejorar la experiencia del usuario.
+- User-centered interface design.
+- Development of elegant and functional frontend solutions.
+- Digital strategies to improve the user experience.
     
-- 🚀 **Actualmente trabajando en proyectos que combinan creatividad y tecnología para resolver problemas reales.**
+- 🚀 **Currently working on projects that combine creativity and technology to solve real problems.**
 
 <br>
-### Languages and Tools:
+### Programmer:
 
-<p align="left">
+<p align="center">
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
@@ -82,6 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
+
 
 <!--
 **KEIMART/KEIMART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
