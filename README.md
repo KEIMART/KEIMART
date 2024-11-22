@@ -2,10 +2,9 @@
 <h1 align="center">Hola, soy Keila Martinez👋</h1>
 </div>
 <img src="./kn.png">
-
-## About me
 <p>Frontend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</p>
 
+## About me
 ### 🎓 **Formación académica:**
 
   - **Ingeniería en Informática**: University of Chile, Duoc UC.
