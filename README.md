@@ -11,16 +11,16 @@
   - **Ingeniería en Informática**: University of Chile, Duoc UC.
   - **Analista Programador Computacional.**: University of Chile, Duoc UC.
     
-  - **Diplomados**:
-  - **University AIEP**
+    <h1>Diplomados</h1>
+    <h2>University AIEP</h2>
   - Diseño Web y Experiencia de usuario UX/UI.
   - Diseño y Orogramación Web.
   - Marketing Digital y Gestión Estratégica.
     
-  - **Universidad de Playa Ancha**
+    <h2>Universidad de Playa Ancha</h2>
   - Diplomado en Diseño y Gestión Ágil de Proyectos.
-    
-- ✨ **Habilidades clave:**
+    <br>
+### ✨ **Habilidades clave:**
   - Diseño de interfaces centradas en el usuario.
   - Desarrollo de soluciones frontend elegantes y funcionales.
   - Estrategias digitales para mejorar la experiencia del usuario.
