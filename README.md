@@ -9,7 +9,27 @@
 
   - **Computer Engineering**: University of Chile, Duoc UC.
   - **Computer Programmer Analyst**: University of Chile, Duoc UC.
-    
+    <br>
+  <table>
+  <tr>
+    <td>
+      <p>Universidad AIEP</p>
+      <ul>
+        <li>Diseño Web y Experiencia de Usuario UX/UI</li>
+        <li>Diseño Web y Programación</li>
+        <li>Analista Programador Informático</li>
+      </ul>
+      <p>Universidad de Playa Ancha</p>
+      <ul>
+        <li>Diseño y Gestión Ágil de Proyectos</li>
+      </ul>
+    </td>
+    <td>
+      <img src="./git.gif" width="200" alt="Octocat gif">
+    </td>
+  </tr>
+</table>  
+
   ## Diplomas
   <p>University AIEP</p>
   - Web Design and User Experience UX/UI<br>
