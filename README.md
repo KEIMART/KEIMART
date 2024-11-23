@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Keila Martinez👋</h1>
 </div>
-<img src="./kmn.png">
+<img src="./knma.png">
 <h3>Frontend/Backend Developer and UX/UI Designer with a passion for creating impactful digital experiences.</h3>
 
 ## About me
